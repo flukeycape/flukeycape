@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @flukeycape
+- I am making random things in python
+- Have a Good Day!
